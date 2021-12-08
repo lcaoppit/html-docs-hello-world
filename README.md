@@ -6,7 +6,7 @@ products:
   - Azure App Service
   - Azure Web Apps
 ---
-
+# Updated by Luis Araujo
 # HTML Hello World
 
 This sample demonstrates a tiny Hello World HTML app for [App Service](https://docs.microsoft.com/azure/app-service).
